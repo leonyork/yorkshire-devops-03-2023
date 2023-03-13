@@ -488,6 +488,11 @@ layout: section
 
 # Thank You 🙏
 
+
+Slides: [https://leonyork.github.io/yorkshire-devops-03-2023](https://leonyork.github.io/yorkshire-devops-03-2023)
+
+<img src="/qr.png" class="w-32 mx-auto" />
+
 <img src="https://avatars.githubusercontent.com/u/39865400?v=4" class="circle" />
 <img src="/iw.jpeg" class="circle" />
 
